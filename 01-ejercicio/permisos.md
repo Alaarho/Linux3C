@@ -1,5 +1,14 @@
 # Tabla de Permisos de Archivos y Directorios
 
+## Captura de Pantalla (Evidencia)
+
+![Captura de permisos](lah-captura.png)
+
+---
+
+
+# Tabla de Permisos de Archivos y Directorios
+
 A continuación se muestra la tabla con los elementos, sus permisos en notación simbólica, octal y una breve descripción basada en la salida del comando `ls -lah`:
 
 | Elemento | Permisos Simbólicos | Permisos Octales | Tipo | Descripción / Significado |
